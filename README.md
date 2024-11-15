@@ -10,4 +10,4 @@ This material is based upon work supported in part by the NSF under grant DMS232
 ### Notes:
 Keep in mind that as you change the stimuli, all that is necessary is to change the original dataframes neuronDF and LickDF that you import into the first notebook (01- Bayesian Coding Neuron Classification), which should originate from the 'Neuron and Lick data.zip'. Instructions for modifying the code in order to classify different numbers of stimuli are included in the comments/ markdown text in that file.
 
-Files in 'GC taste.zip', 'GC temp.zip' and Somatosensory cortex.zip' are files containing saved data for the analysis/figure creation notebooks
+Files in 'GC taste.zip', 'GC temp.zip' and Somatosensory cortex.zip' are files containing saved data for the analysis/figure creation notebooks. There are many places in the figure creation/ data analysis notebooks where you will need to fill in the path leading to the files in these .zip folders once unzipped, and I find it easiest to keep these seperate instead of merging into a single folder.
